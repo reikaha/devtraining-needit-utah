@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <fail_on_server_error>true</fail_on_server_error>
+        <name>When needed - Past</name>
+        <parameters/>
+        <remember/>
+        <sn_atf_tg_generated>false</sn_atf_tg_generated>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 01:54:08</sys_created_on>
+        <sys_id>8c80b26d83601210c2bdc6a6feaad3c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>When needed - Past</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_8c80b26d83601210c2bdc6a6feaad3c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 01:54:08</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="DELETE" query="document_key=8c80b26d83601210c2bdc6a6feaad3c5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>30f9c0f91bcd0254c8432f8dee4bcbdb</instance_id>
+        <instance_name>dev246546</instance_name>
+        <name>sys_atf_test_8c80b26d83601210c2bdc6a6feaad3c5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description/><enable_parameterized_testing>false</enable_parameterized_testing><fail_on_server_error>true</fail_on_server_error><name>When needed - Past</name><parameters/><remember/><sn_atf_tg_generated>false</sn_atf_tg_generated><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-10 01:54:08</sys_created_on><sys_id>8c80b26d83601210c2bdc6a6feaad3c5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>When needed - Past</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_test_8c80b26d83601210c2bdc6a6feaad3c5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-10 01:54:08</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=8c80b26d83601210c2bdc6a6feaad3c5"/></record_update>]]></payload>
+        <payload_hash>-451925210</payload_hash>
+        <record_name>When needed - Past</record_name>
+        <reverted_from/>
+        <source>275aee1383f30210c2bdc6a6feaad3b1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 01:54:08</sys_created_on>
+        <sys_id>1fe07aa183a01210c2bdc6a6feaad3f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191d9a35eee0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 01:54:08</sys_updated_on>
+        <type>Test</type>
+        <update_guid>13e07aa15ea01210b5920997512d8df3</update_guid>
+        <update_guid_history>13e07aa15ea01210b5920997512d8df3:-451925210</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 01:55:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test">sys_atf_test</sys_db_object>
+        <sys_id>5d78f94eec454b7ab9e5c46e118d7ec4</sys_id>
+        <sys_metadata>8c80b26d83601210c2bdc6a6feaad3c5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>When needed - Past</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_test_8c80b26d83601210c2bdc6a6feaad3c5</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_8c80b26d83601210c2bdc6a6feaad3c5">1fe07aa183a01210c2bdc6a6feaad3f3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 01:55:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
