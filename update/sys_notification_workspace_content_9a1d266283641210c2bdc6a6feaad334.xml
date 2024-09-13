@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_notification_workspace_content">
+    <sys_notification_workspace_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <is_default>false</is_default>
+        <name>Notification Test3 Content</name>
+        <notification display_value="Notification Test3">b19c262283641210c2bdc6a6feaad34b</notification>
+        <route display_value="Agent Workspace">cb1af195872023002941b53046cb0b4e</route>
+        <sys_class_name>sys_notification_workspace_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-13 04:11:38</sys_created_on>
+        <sys_id>9a1d266283641210c2bdc6a6feaad334</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notification Test3 Content</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_notification_workspace_content_9a1d266283641210c2bdc6a6feaad334</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-13 04:11:38</sys_updated_on>
+    </sys_notification_workspace_content>
+</record_update>
