@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_topic_language">
+    <sys_cs_topic_language action="DELETE">
+        <cs_topic_id display_value="_PRVW__7b068e2484f812100cc0ae4d8dd3da0c">fb06c6a483f81210c2bdc6a6feaad376</cs_topic_id>
+        <language_code>en</language_code>
+        <nlu_entities>[]</nlu_entities>
+        <nlu_intent>OpenITTicket</nlu_intent>
+        <nlu_intent_label>OpenITTicket</nlu_intent_label>
+        <nlu_model>sn_itsm_nlu_ITSM_NLU_for_VA</nlu_model>
+        <nlu_model_label>ITSM NLU for Virtual Agent</nlu_model_label>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <sys_class_name>sys_cs_topic_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-19 06:28:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>cc16c6a483f81210c2bdc6a6feaad37d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_cs_topic_language_cc16c6a483f81210c2bdc6a6feaad37d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-19 06:28:37</sys_updated_on>
+    </sys_cs_topic_language>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>30f9c0f91bcd0254c8432f8dee4bcbdb</instance_id>
+        <instance_name>dev246546</instance_name>
+        <name>sys_cs_topic_language_cc16c6a483f81210c2bdc6a6feaad37d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_topic_language"><sys_cs_topic_language action="INSERT_OR_UPDATE"><cs_topic_id display_value="_PRVW__7b068e2484f812100cc0ae4d8dd3da0c">fb06c6a483f81210c2bdc6a6feaad376</cs_topic_id><language_code>en</language_code><nlu_entities>[]</nlu_entities><nlu_intent>OpenITTicket</nlu_intent><nlu_intent_label>OpenITTicket</nlu_intent_label><nlu_model>sn_itsm_nlu_ITSM_NLU_for_VA</nlu_model><nlu_model_label>ITSM NLU for Virtual Agent</nlu_model_label><nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider><sys_class_name>sys_cs_topic_language</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-19 06:28:37</sys_created_on><sys_domain>global</sys_domain><sys_id>cc16c6a483f81210c2bdc6a6feaad37d</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_cs_topic_language_cc16c6a483f81210c2bdc6a6feaad37d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-19 06:28:37</sys_updated_on></sys_cs_topic_language></record_update>]]></payload>
+        <payload_hash>1732631808</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1ff60ade83609210c2bdc6a6feaad370</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-19 06:28:37</sys_created_on>
+        <sys_id>c416c6a483f81210c2bdc6a6feaad380</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19208f7e6f90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-19 06:28:37</sys_updated_on>
+        <type>CS Topic Language</type>
+        <update_guid>c816c6a434f81210ada8a68bd126067f</update_guid>
+        <update_guid_history>c816c6a434f81210ada8a68bd126067f:1732631808</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-19 19:14:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_cs_topic_language">sys_cs_topic_language</sys_db_object>
+        <sys_id>058491750ae34b73a0a2e15782feb861</sys_id>
+        <sys_metadata>cc16c6a483f81210c2bdc6a6feaad37d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_cs_topic_language_cc16c6a483f81210c2bdc6a6feaad37d</sys_update_name>
+        <sys_update_version display_value="sys_cs_topic_language_cc16c6a483f81210c2bdc6a6feaad37d">c416c6a483f81210c2bdc6a6feaad380</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-19 19:14:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
